@@ -1,0 +1,10 @@
+streamlit==1.40.2
+faster-whisper==1.1.0
+spacy==3.7.5
+dateparser==1.2.0
+numpy==1.26.4
+pandas==2.2.3
+plotly==5.24.1
+pytest==8.3.3
+# Optional second speech fallback (large download, pulls in PyTorch):
+# openai-whisper==20240930
